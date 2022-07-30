@@ -1,4 +1,11 @@
 <div class='tabla'>
+
+
+
+
+
+
+
 	<div class='encabezado'>
 		<div class='celda-dia'>
 			<p class='dia_cal'>Lunes</p>
