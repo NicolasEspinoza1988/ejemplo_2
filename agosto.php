@@ -2,14 +2,18 @@
 	<div class='encabezado'>
 		<div class='celda-dia'>
 			<p class='dia_cal'>Lunes</p>
-
-
-
 			
 		</div>
 		<div class='celda-dia'>
 			<p class='dia_cal'>Martes</p>
 		</div>
+
+
+
+
+
+
+
 		<div class='celda-dia'>
 			<p class='dia_cal'>Miercoles</p>
 		</div>
